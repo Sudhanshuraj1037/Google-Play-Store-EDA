@@ -1,6 +1,9 @@
 # 📊 Google Play Store Exploratory Data Analysis
 
-Python | Pandas | NumPy | Matplotlib | Data Analysis
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Library-green)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
 
 ## Overview
 
@@ -68,6 +71,29 @@ Google Play Store Dataset
 
 ---
 
+## Project Structure
+
+Google-Play-Store-EDA/
+├── Google_Play_Store_EDA.ipynb
+├── googleplaystore.csv
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── images/
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Open the notebook
+4. Run all cells
+
+---
 ## Author
 
 Sudhanshu Raj
