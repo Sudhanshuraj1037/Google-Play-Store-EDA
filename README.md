@@ -1,5 +1,7 @@
 # 📊 Google Play Store Exploratory Data Analysis
 
+Python | Pandas | NumPy | Matplotlib | Data Analysis
+
 ## Overview
 
 This project performs an end-to-end Exploratory Data Analysis (EDA) on the Google Play Store dataset using Python.
@@ -7,6 +9,8 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on the Googl
 The project focuses on identifying trends in app ratings, installs, pricing, reviews, categories, genres, and user engagement.
 
 ---
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/27069ae1-2313-41f8-b757-e7bdb41fb02b" />
+
 
 ## Dataset
 
