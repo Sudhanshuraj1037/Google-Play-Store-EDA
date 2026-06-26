@@ -18,6 +18,9 @@ Google Play Store Dataset
 
 ---
 
+<img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/e2e3d231-0b7b-4939-b45a-b5d09f8a344b" />
+
+
 ## Tools Used
 
 - Python
@@ -42,6 +45,9 @@ Google Play Store Dataset
 - Correlation Analysis
 
 ---
+
+<img width="467" height="409" alt="image" src="https://github.com/user-attachments/assets/0b34c620-e213-41d6-80c3-1ae49e62a719" />
+
 
 ## Features Created
 
